@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3QydnNjamtnbTZyd2FkaHhlbWQ2YWVycXo5bWJ0bW1penNndjA0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Welcome Gif" width="300" height="190">
 </p>
+
 -----
 
 # About Me
