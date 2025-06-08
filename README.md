@@ -25,3 +25,13 @@
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL
 - **Other:** REST APIs, Responsive Web Design, Agile Methodologies
+-----
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical" alt="ErwinSusiloNugroho's GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErwinSusiloNugroho&theme=radical" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinSusiloNugroho&layout=compact&theme=radical" alt="Top Languages" />
+</p>
