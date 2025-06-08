@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" alt="ErwinSusiloNugroho's GitHub Stats" />
+    < <img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="ErwinSusiloNugroho's GitHub Stats" />
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErwinSusiloNugroho&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     <br/>
