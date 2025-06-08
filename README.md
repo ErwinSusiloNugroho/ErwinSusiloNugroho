@@ -30,7 +30,7 @@
 
 -----
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" alt="ErwinSusiloNugroho's GitHub Stats" />
@@ -57,3 +57,4 @@
 
 ---
 </p>
+
