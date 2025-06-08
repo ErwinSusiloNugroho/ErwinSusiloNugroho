@@ -7,7 +7,7 @@
 
 # About Me
 
-- 🔭 Currently working on **Ridjik**
+- 🔭 Study on **UNIPMA**
 - 🌱 Learning **Laravel**
 - 👯 Open to collaborate on **Ridjik Web**
 - 🤔 Seeking help with **Ridjik Web**
