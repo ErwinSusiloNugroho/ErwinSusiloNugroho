@@ -4,6 +4,7 @@
 </p>
 
 -----
+
 # About Me
 
 - 🔭 Currently working on **Ridjik**
@@ -14,7 +15,9 @@
 - 📫 Reach me at: [erwinsusilo404@gmail.com](erwinsusilo404@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new technologies!
+
 -----
+
 ## 🛠️ Technical Expertise
 <p align="center">
     <img src="https://skillicons.dev/icons?i=php,js,html,css,python,laravel,vue,bootstrap,git,github,vscode,mysql" alt="Tech Stack" />
@@ -25,7 +28,9 @@
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL
 - **Other:** REST APIs, Responsive Web Design, Agile Methodologies
+
 -----
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -35,7 +40,8 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinSusiloNugroho&layout=compact&theme=radical" alt="Top Languages" />
 </p>
------
+
+---
 ## 🏆 GitHub Trophies
 
 <p align="center">
