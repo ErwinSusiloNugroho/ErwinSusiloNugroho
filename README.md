@@ -49,19 +49,15 @@
 ---
 ## 🏆 GitHub Trophies
 
-<div align="center" style="padding: 10px;">
-    <div style="border: 3px solid; border-image: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7) 1; animation: rainbow 3s linear infinite; border-radius: 10px; display: inline-block; padding: 5px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=ErwinSusiloNugroho&theme=radical&no-frame=true&margin-w=10&column=7" 
-             alt="GitHub Trophies" />
-    </div>
-</div>
-
-<style>
-@keyframes rainbow {
-    0% { filter: hue-rotate(0deg); }
-    100% { filter: hue-rotate(360deg); }
-}
-</style>
+<p align="center">
+    ===========================================
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ErwinSusiloNugroho&theme=matrix&no-frame=false&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+<p align="center">
+    ==========================================
+</p>
 
 - Showcasing milestones and achievements on GitHub!
 - Highlights contributions, repositories, and community involvement.
