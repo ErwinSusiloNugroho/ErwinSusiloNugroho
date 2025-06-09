@@ -42,9 +42,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinSusiloNugroho&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445&animation=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinSusiloNugroho&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+    <h3>🔥 My Coding Journey 🔥</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinSusiloNugroho&theme=radical&hide_border=false&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
 
 ---
 ## 🏆 GitHub Trophies
