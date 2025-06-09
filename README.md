@@ -1,6 +1,8 @@
 ## Hi Welcome! I'm Erwin Susilo 👋.
 <p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZwd2htam0yZnJkcmEzOTdlOXBvaWtjd2M2ZTl4YmlzOWQ0ZmJnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6MWahPArixa6I/giphy.gif" alt="Welcome Gif" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVxYjk4bHd0ZWpwbjVzdWI2NzQzeGx6YXRlN3lqdWliNjVtcnZ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.gif" alt="Welcome Gif" /> 
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=fira+Code&size=28&pause=1000&color=019434&center=true&vCenter=true&width=300&lines=hello world!" alt="Animated Text" />
 </p>
 
 -----
