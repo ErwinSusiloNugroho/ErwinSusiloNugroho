@@ -6,7 +6,7 @@
 -----
 
 # About Me
-💻 I'm a fullstack developer from Indonesia
+💻 I'm a fullstack developer from Indonesia <br>
 🛠 I enjoy building web apps using Laravel, Node.js, React, and Tailwind CSS
 - 🔭 Study on **UNIPMA**
 - 🌱 Learning **Laravel**
