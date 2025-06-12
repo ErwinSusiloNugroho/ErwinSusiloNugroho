@@ -61,14 +61,9 @@
 ---
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
-    ===========================================
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ErwinSusiloNugroho&theme=matrix&no-frame=false&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="GitHub Trophies" />
-</p>
-<p align="center">
-    ==========================================
+    <<img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=matrix&count_private=true" alt="GitHub Stats" />
 </p>
 
 - Showcasing milestones and achievements on GitHub!
