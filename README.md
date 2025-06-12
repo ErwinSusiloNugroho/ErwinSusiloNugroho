@@ -63,9 +63,8 @@
 
 
 <p align="center">
-    <<img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=matrix&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ErwinSusiloNugroho&theme=radical&no-frame=false&margin-w=15&column=7&no-bg=true" alt="GitHub Trophies" />
 </p>
-
 - Showcasing milestones and achievements on GitHub!
 - Highlights contributions, repositories, and community involvement.
 - Motivates continuous learning and open-source collaboration.
