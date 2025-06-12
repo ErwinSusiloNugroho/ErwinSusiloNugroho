@@ -1,24 +1,4 @@
 ## Hi Welcome! I'm Erwin Susilo 👋.
-<p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="ErwinSusiloNugroho's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErwinSusiloNugroho&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinSusiloNugroho&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
-</p>
-
-<table align="center">
-<tr>
-<td align="center" style="padding: 20px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4); border-radius: 15px;">
-
-### 🚀 **CODING ACTIVITY** 🚀
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinSusiloNugroho&theme=radical&hide_border=true&area=true&bg_color=0d1117" alt="GitHub Activity Graph" />
-
-</td>
-</tr>
-</table>
-
 -----
 
 # About Me
@@ -65,7 +45,7 @@
 ### 🚀 **CODING ACTIVITY** 🚀
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="ErwinSusiloNugroho's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErwinSusiloNugroho&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="ErwinSusiloNugroho's GitHub Stats" />
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErwinSusiloNugroho&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     <br/>
