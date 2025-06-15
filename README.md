@@ -17,7 +17,7 @@
 - 👯 Open to collaborate on **Ridjik Web**
 - 🤔 Seeking help with **Ridjik Web**
 - 💬 Ask me about web development or Laravel
-- 📫 Reach me at: [erwinsusilo404@gmail.com](erwinsusilo404@gmail.com)
+- 📫 Reach me at: [erwinsusilo404@gmail.com](mailto:erwinsusilo404@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new technologies!
 
