@@ -28,8 +28,8 @@
     <img src="https://skillicons.dev/icons?i=php,js,html,css,python,laravel,vue,bootstrap,git,github,vscode,mysql" alt="Tech Stack" />
 </p>
 
-- **Languages:** PHP, JavaScript, HTML, CSS, Python, c++
-- **Frameworks/Libraries:** Laravel, Vue.js, Bootstrap
+- **Languages:** PHP, JavaScript, HTML, CSS, Python, C++
+- **Frameworks/Libraries:** Laravel, Vue.js, Bootstrap, Tailwind.css
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL
 - **Other:** REST APIs, Responsive Web Design, Agile Methodologies
