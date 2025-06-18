@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=php,js,html,css,python,laravel,vue,bootstrap,git,github,vscode,mysql" alt="Tech Stack" />
 </p>
 
-- **Languages:** PHP, JavaScript, HTML, CSS, Python
+- **Languages:** PHP, JavaScript, HTML, CSS, Python, c++
 - **Frameworks/Libraries:** Laravel, Vue.js, Bootstrap
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL
